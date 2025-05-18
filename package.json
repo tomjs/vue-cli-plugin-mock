@@ -1,7 +1,7 @@
 {
   "name": "@tomjs/vue-cli-plugin-mock",
   "type": "commonjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@10.11.0",
   "description": "vue-cli plugin to add mock server",
   "author": {
