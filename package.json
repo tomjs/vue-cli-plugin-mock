@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/tomjs/vue-cli-plugin-mock.git"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "mock",
+    "mocks"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
